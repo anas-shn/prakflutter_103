@@ -1,5 +1,9 @@
 # pert10_103
 
+Nama : Anas Sholihin <br>
+NIM : H1D023103 <br>
+Shift: E > F <br>
+
 A new Flutter project.
 
 ## Getting Started
